@@ -1,6 +1,6 @@
 {
-  "name": "prova-app",
-  "version": "0.1.0",
+  "name": "cadastro-pessoas-frontend",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
