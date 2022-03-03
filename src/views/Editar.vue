@@ -80,6 +80,9 @@ import { mask } from 'vue-the-mask'
 
 export default {
   components: { InputEditarTelefone, CaixaDialogo },
+  metaInfo: {
+    title: 'Cadastro de pessoas | Atualizar'
+  },
   directives: { mask },
   data() {
     return {

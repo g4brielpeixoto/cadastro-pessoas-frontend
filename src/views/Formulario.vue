@@ -74,6 +74,9 @@ import { mask } from 'vue-the-mask'
 
 export default {
   directives: { mask },
+  metaInfo: {
+    title: 'Cadastro de pessoas | Cadastrar'
+  },
   data() {
     return {
       nome: '',
