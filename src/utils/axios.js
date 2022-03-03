@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default axios.create({
-  baseURL: 'https://cadastro-pessoas-backend.herokuapp.com/'
+  baseURL: process.env.VUE_APP_API_URL
 })
