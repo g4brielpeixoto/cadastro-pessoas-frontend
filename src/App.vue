@@ -6,6 +6,14 @@
   </v-app>
 </template>
 
+<script>
+export default {
+  metaInfo: {
+    title: 'Cadastro de pessoas'
+  }
+}
+</script>
+
 <style lang="scss">
 .body {
   background-color: #333 !important;
